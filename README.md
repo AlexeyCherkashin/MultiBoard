@@ -46,24 +46,3 @@ Installation
 
 Please remember to change the administrator account password.
 
-See also: [Configuration Basics](http://tinyboard.org/docs/?p=Config).
-
-Support
---------
-Tinyboard is still beta software -- there are bound to be bugs. If you find a
-bug, please report it.
-
-If you need assistance with installing, configuring, or using Tinyboard, you may
-find support from a variety of sources:
-
-*	If you're unsure about how to enable or configure certain features, make
-	sure you have read the comments in ```inc/config.php```.
-*	Documentation can be found [here](http://tinyboard.org/docs/).
-*	You can join Tinyboard's IRC channel for support and general queries: 
-	[irc.datnode.net #tinyboard](irc://irc.datnode.net/tinyboard).
-*	You may find help at [tinyboard.org](http://tinyboard.org/#help).
-
-License
---------
-See [LICENSE.md](http://github.com/savetheinternet/Tinyboard/blob/master/LICENSE.md).
-
